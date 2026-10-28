@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/🌐_Portfolio-fenoandria.github.io-181717?style=for-the-badge" alt="Portfolio">
 </a>
 &nbsp;
-<a href="https://www.linkedin.com/in/fenomanjato-andriamorasata-29963125b/">
+<a href="https://www.linkedin.com/in/feno-andriamorasata-29963125b/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 &nbsp;
@@ -146,7 +146,7 @@ Development and maintenance of a PrestaShop-based e-commerce platform, including
   <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
 </a>
 
-<a href="https://www.linkedin.com/in/fenomanjato-andriamorasata-29963125b/">
+<a href="https://www.linkedin.com/in/feno-andriamorasata-29963125b/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
